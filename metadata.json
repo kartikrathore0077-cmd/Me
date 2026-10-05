@@ -1,0 +1,8 @@
+{
+  "name": "Deep Handloom - Merta City & Gotan",
+  "description": "Multi-brand readymade garments and authentic Rajasthani handloom textiles in Merta City and Gotan. Featuring Jockey, Mufti, Red Tape, ethnic wear, and fabrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
